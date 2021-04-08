@@ -1,0 +1,2 @@
+# hello
+Sarcina laborator
